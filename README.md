@@ -1,6 +1,6 @@
 # Practica de React - Lista de empleados
 
-_Consiste en llenar un formulario y validad los datos ingresados_
+_Crear una aplicación web que permite reutilizar componentes siguiendo una estructura_
 
 ### Demo ⭐
 
